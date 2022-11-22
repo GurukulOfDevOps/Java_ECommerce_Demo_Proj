@@ -35,7 +35,7 @@ public class User {
   private String companyName;
   private String vatNo;
   private UserTypeEnum userType;
-  private String company_address
+  private String company_address;
 
   public Long getId() {
     return id;
